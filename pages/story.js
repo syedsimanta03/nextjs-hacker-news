@@ -1,4 +1,4 @@
-import fetch from "isomorphic-fetch";
+import fetch from "isomorphic-unfetch";
 import Error from "next/error";
 import Layout from "../components/Layout";
 import CommentList from "../components/CommentList";

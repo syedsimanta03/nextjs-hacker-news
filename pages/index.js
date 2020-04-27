@@ -1,4 +1,4 @@
-import fetch from "isomorphic-fetch";
+import fetch from "isomorphic-unfetch";
 import Error from "next/error";
 import Link from "next/link";
 import StoryList from "../components/StoryList";
